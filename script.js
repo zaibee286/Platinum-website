@@ -18529,7 +18529,7 @@ const B2 = () => {
     const e = [{
         name: "Mir Fazal Hassan Marri",
         position: "CEO/Founder",
-        image: "fazal hassan .jpg?w=400&h=400&fit=crop&crop=face",
+        image: "mir fazal hassan.jpg?w=400&h=400&fit=crop&crop=face",
         description: "Visionary leader with over 12 years of experience in building global enterprises and driving strategic growth.",
         hasContact: !0
     }, {
@@ -18583,7 +18583,7 @@ const B2 = () => {
     }, {
                    name: "Zaib Azeem",
                    position: "Director",
-                   image: "WhatsApp Image 2025-06-26 at 12.58.20_8dbebdd9.jpg?w=400&h=400&fit=crop&crop=face",
+                   image: "zaib.jpg?w=400&h=400&fit=crop&crop=face",
                    description: "Director specializing in IT solutions and technology-driven organizational development.",
                    hasContact: !1
                }]
