@@ -17900,7 +17900,7 @@ const B2 = () => {
                     children: d.jsx("div", {
                         className: "w-20 h-20 bg-white/10 backdrop-blur-sm rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300",
                         children: d.jsx("img", {
-                            src: "logos/PEG Logo-01-01.png?w=64&h=64&fit=crop&crop=center",
+                            src: "PEG Logo-01-01.png?w=64&h=64&fit=crop&crop=center",
                             alt: "Company Logo",
                             className: "w-16 h-16 object-contain rounded-lg"
                         })
@@ -18273,151 +18273,151 @@ const B2 = () => {
         sector: "Technology",
         description: "Red Folder is an IT company and part of Platinum Executive Group specializing in technology solutions. Provides innovative services to clients. With expertise in various areas drives digital transformation. Supporting businesses with cutting-edge tech.",
         linkedin: "https://www.linkedin.com/company/redfolder",
-        logo: "logos/logo.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "logo.jpg?w=100&h=100&fit=crop&crop=center"
     }, {
                  name: "PLATINUM EXECUTIVE CARS",
                  sector: "Luxury Car Rental",
                  description: "Platinum Executive Cars is a Luxury car hire company based in Karachi Sindh Pakistan providing luxury travel for both corporate & private clients.",
                  linkedin: "https://www.linkedin.com/company/platinumexecutivecars",
-                 logo: "logos/WhatsApp Image 2020-05-12 at 15.30.05.jpeg?w=100&h=100&fit=crop&crop=center"
+                 logo: "WhatsApp Image 2020-05-12 at 15.30.05.jpeg?w=100&h=100&fit=crop&crop=center"
              }, {
                  name: "ILFORD STEEL INDUSTRIES",
                  sector: "Steel Manufacturing",
                  description: "Ilford Steel Industries, a subsidiary of Platinum Executive Group, was founded in 2023 with a focus on providing high-quality steel products and services, delivering exceptional value to our clients.",
                  linkedin: "https://www.linkedin.com/company/ilfordsteel.co.uk",
-                 logo: "logos/Ilford Steel Logo-01-01.jpg?w=100&h=100&fit=crop&crop=center"
+                 logo: "Ilford Steel Logo-01-01.jpg?w=100&h=100&fit=crop&crop=center"
              }, {
                  name: "MAIWAND X1 ENERGIES",
                  sector: "Natural Gas Fields",
                  description: "Maiwand X1, a subsidiary of Platinum Executive Group Inc. (USA), specializes in strategic investments and acquisitions of gas fields, with a focus on Pakistan, the Middle East, and Germany, to drive energy growth and development",
                  linkedin: "https://www.linkedin.com/company/mx1e",
-                 logo: "logos/mawand.jpg?w=100&h=100&fit=crop&crop=center"
+                 logo: "mawand.jpg?w=100&h=100&fit=crop&crop=center"
              },{
         name: "PLATINUM EXECUTIVE D.M WORKS",
         sector: "Motor Vehicle Parts Manufacturing",
         description: "Platinum Executive DM Works, specialize in delivering top-quality vehicle repair services. founded in 2023 as part of Platinum Executive Group.",
         linkedin: "https://www.linkedin.com/company/pedmw.co.uk",
-        logo: "logos/logo (2).png?w=100&h=100&fit=crop&crop=center"
+        logo: "logo (2).png?w=100&h=100&fit=crop&crop=center"
     }, {
         name: "SOUTHEND ON SEA MARINE SERVICES",
         sector: "Marine",
         description: "Southend On Sea Marine Services, a Platinum Executive Group subsidiary, is a leading marine company providing comprehensive marine solutions. We specialize in various marine-related businesses. Our expertise ensures efficient and reliable services. Delivering exceptional results for our clients.",
         linkedin: "https://www.linkedin.com/company/southonsea.co.uk",
-        logo: "logos/Southend sea logo-01.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "Southend sea logo-01.jpg?w=100&h=100&fit=crop&crop=center"
     }, {
         name: "EXECUTIVE CORP.SERVICES",
         sector: "Asset Management",
         description: "Executive Corporate Services (ECS), a wholly-owned subsidiary of Platinum Executive Group, is a diversified conglomerate that offers premium services in luxury vehicle rentals and commercial property rentals, tailored to meet the needs of esteemed corporate clients",
         linkedin: "https://www.linkedin.com/in/mirfazalhassan",
-        logo: "logos/WhatsApp Image 2024-05-29 at 18.24.59.jpeg?w=100&h=100&fit=crop&crop=center"
+        logo: "WhatsApp Image 2024-05-29 at 18.24.59.jpeg?w=100&h=100&fit=crop&crop=center"
     },{
                  name: "DAZLAT BORCO",
                  sector: "Drilling & Mining",
                  description: "DBC (Dazlat Borco) is a leading drilling company under Platinum Executive Group, founded in 2022 delivers precise and efficient drilling services. With state-of-the-art rigs and expertise drives project success. Prioritizing safety, sustainability, and customer satisfaction.",
                  linkedin: "https://www.linkedin.com/company/dbc.co.uk",
-                 logo: "logos/Dazlat Borco-01 (2).jpg?w=100&h=100&fit=crop&crop=center"
+                 logo: "Dazlat Borco-01 (2).jpg?w=100&h=100&fit=crop&crop=center"
              },{
                  name: "GARDAF AGRI",
                  sector: "Agriculture",
                  description: "GARDAF AGRI was founded for development goals especially in the field of agricultural, vegetables and livestock production, Gardaf Agri is member of Platinum Executive group.",
                  linkedin: "https://www.linkedin.com/company/gardaf-agri",
-                 logo: "logos/Gardaf agri logo-01.jpg?w=100&h=100&fit=crop&crop=center"
+                 logo: "Gardaf agri logo-01.jpg?w=100&h=100&fit=crop&crop=center"
              }, {
                  name: "WESTGATE CORP.",
                  sector: "Helicopters",
                  description: "Westgate Corp. a subsidiary of Platinum Executive Group Inc. (Miami, USA), is a global leader in helicopter sales and acquisitions. With strategic offices in South Asia, the UK, and UAE, we cater to the diverse needs of our clients worldwide.",
                  linkedin: "https://www.linkedin.com/company/westgate-corp",
-                 logo: "logos/westgate logo-01.jpg?w=100&h=100&fit=crop&crop=center"
+                 logo: "westgate logo-01.jpg?w=100&h=100&fit=crop&crop=center"
              }, {
                  name: "PLATINUM EXECUTIVE GROUP LTD. UK",
                  sector: "Holding Company",
                  description: "Platinum Executive Group Ltd. (UK): A globally diversified holding company headquartered in London, with strategic investments and subsidiaries across Pakistan, the United States, and the United Kingdom, fostering innovation and growth through its multifaceted portfolio.",
                  linkedin: "https://www.linkedin.com/company/peggroup.co.uk",
-                 logo: "logos/PEG Logo-01-01.png?w=100&h=100&fit=crop&crop=center"
+                 logo: "PEG Logo-01-01.png?w=100&h=100&fit=crop&crop=center"
              },{
                  name: "RASCO FUELS & PETROLEUM",
                  sector: "Petroleum",
                  description: "Rasco Fuels & Petroleum was established in 2022 on the basis and know-how of trading petroleum & petrochemical products.",
                  linkedin: "https://www.linkedin.com/company/rfppl",
-                 logo: "logos/RASCO Petroleum Energy logo-01.jpg?w=100&h=100&fit=crop&crop=center"
+                 logo: "RASCO Petroleum Energy logo-01.jpg?w=100&h=100&fit=crop&crop=center"
              },  {
         name: "MAZHVI TEXTILE",
         sector: "Textile Manufacturing",
         description: "MAZHVI TEXTILE, a wholly-owned subsidiary of Platinum Executive Group, is a textile manufacturing company that not only caters to the domestic market but also exports high-quality textile materials to various countries around the globe, the company also owns and operates its clothing brand, MAZHVI.",
         linkedin: "https://www.linkedin.com/company/mazhvi-textile",
-        logo: "logos/Mazhvi textile logo-01.png?w=100&h=100&fit=crop&crop=center"
+        logo: "Mazhvi textile logo-01.png?w=100&h=100&fit=crop&crop=center"
     },  {
         name: "PLATINUM EXECUTIVE HOLDINGS",
         sector: "Investment",
         description: "Platinum Executive Holdings is a global investment and management Company dedicated to establishing, investing in, and supporting its subsidiary and associated companies worldwide.",
         linkedin: "https://www.linkedin.com/company/peh-co",
-        logo: "logos/peh logo.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "peh logo.jpg?w=100&h=100&fit=crop&crop=center"
     }, {
         name: "THALCROP",
         sector: "Farming",
         description: "Specializes in crop procurement, collection, and sales.",
         linkedin: "https://www.linkedin.com/company/thalcrop",
-        logo: "logos/Thalcrop logo-01.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "Thalcrop logo-01.jpg?w=100&h=100&fit=crop&crop=center"
     },  {
                  name: "PLATINUM EXECUTIVE GROUP INC. US",
                  sector: "Holding Company",
                  description: "Platinum Executive Group Inc. (US): A globally diversified holding company headquartered in Miami, Florida, with strategic investments and subsidiaries across Pakistan, the United States, and the United Kingdom, fostering innovation and growth through its multifaceted portfolio.",
                  linkedin: "https://www.linkedin.com/company/peggroup.co.uk",
-                 logo: "logos/PEG Logo-01-01.png?w=100&h=100&fit=crop&crop=center"
+                 logo: "PEG Logo-01-01.png?w=100&h=100&fit=crop&crop=center"
              },{
         name: "RASCO ENERGY",
         sector: "Renewable Energy",
         description: "Rascoh Energy is a solar energy company that aims to provide revolutionary solutions for commercial, residential, agricultural and industrial sectors.",
         linkedin: "https://www.linkedin.com/company/repl.pk",
-        logo: "logos/RASCO Petroleum Energy logo-02.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "RASCO Petroleum Energy logo-02.jpg?w=100&h=100&fit=crop&crop=center"
     }, {
         name: "ILFORD TYRES & WHEELS",
         sector: "Automotive",
         description: "Ilford Tyres and Wheels, part of Platinum Executive Group, is a leading provider of high-quality tyres and wheels, delivering exceptional products and services to customers.",
         linkedin: "https://www.linkedin.com/company/itw.co.uk",
-        logo: "logos/ILFORD tyres & wheels logo-01.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "ILFORD tyres & wheels logo-01.jpg?w=100&h=100&fit=crop&crop=center"
     }, {
         name: "LEED LITERACY CONSORTIUM",
         sector: "Education",
         description: "Leeds Literacy Consortium (LLC) is dedicated to empowering underprivileged communities in Pakistan, particularly in Balochistan and Sindh, through quality education and skill development. Our mission is to bridge the educational gap and foster socio-economic growth in these regions.",
         linkedin: "https://www.linkedin.com/company/llc.edu.pk",
-        logo: "logos/LLC Logo.png?w=100&h=100&fit=crop&crop=center"
+        logo: "LLC Logo.png?w=100&h=100&fit=crop&crop=center"
     }, {
         name: "BOAGRI",
         sector: "Agricultural Chemical Manufacturing",
         description: "A fertilizer company dealing in seeds for various crops and fertilizers providing credit facilities to farmers.",
         linkedin: "https://www.linkedin.com/company/boagri",
-        logo: "logos/boagri logo-01.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "boagri logo-01.jpg?w=100&h=100&fit=crop&crop=center"
     }, {
         name: "SURATSON'S FARM",
         sector: "Tourism",
         description: "Suratson's Farm: A private farm house owned by GARDAF Agri, available for rental purposes.",
         linkedin: "https://www.linkedin.com/company/suratson-s-farm",
-        logo: "logos/FARM01.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "FARM01.jpg?w=100&h=100&fit=crop&crop=center"
     },  {
         name: "TAXSERVICE.CO.UK",
         sector: "Wealth Management",
         description: "Tax Service.co.uk (TSCU) was founded in 2022 as part of the Platinum Executive Group. We're a premier UK-based firm of financial experts dedicated to delivering exceptional services in financial planning, wealth management, accounting, and tax advisory.",
         linkedin: "https://www.linkedin.com/company/taxservicedotcodotuk",
-        logo: "logos/tax service logo-01.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "tax service logo-01.jpg?w=100&h=100&fit=crop&crop=center"
     },{
                  name: "PLATINUM EXECUTIVE REALTORS",
                  sector: "Real Estate & Construction",
                  description: "Platinum Executive Realtors: A real estate, construction media and marketing company, founded in 2022 under Platinum Executive Group specialize in innovative real estate solutions, leveraging expertise in marketing and media to drive growth and success.",
                  linkedin: "https://www.linkedin.com/company/platinum-executive-realtors-private-limited",
-                 logo: "logos/PER Logo-02 (1).jpg?w=100&h=100&fit=crop&crop=center"
+                 logo: "PER Logo-02 (1).jpg?w=100&h=100&fit=crop&crop=center"
              }, {
         name: "GHC",
         sector: "Law",
         description: "GHC, a wholly-owned subsidiary of Platinum Executive Group, is a law firm providing expert legal services across Pakistan, UAE, and the UK. Our expertise spans various legal matters, delivering tailored solutions for individuals and corporations",
         linkedin: "https://www.linkedin.com/company/ghc-uk",
-        logo: "logos/Gatehouse Chambers logo-01.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "Gatehouse Chambers logo-01.jpg?w=100&h=100&fit=crop&crop=center"
     },  {
         name: "PLATINUM EXE. CONSULTANCY SERVICES",
         sector: "Management Consulting",
         description: "At Platinum Executive Consultancy Services, we empower organizations to exceed their potential. Our global team of 30 experts delivers solutions in 5 core areas: Organization Strategy, Assessment & Succession, Talent Acquisition, Leadership Development, and Total Rewards. We help clients design optimal structures, hire the right talent, and develop professionals.",
         linkedin: "https://www.linkedin.com/company/platinumexecutiveconsultancy",
-        logo: "logos/Consultancy Logo-02.jpg?w=100&h=100&fit=crop&crop=center"
+        logo: "Consultancy Logo-02.jpg?w=100&h=100&fit=crop&crop=center"
     }];
     return d.jsxs("section", {
         id: "companies",
@@ -18529,61 +18529,61 @@ const B2 = () => {
     const e = [{
         name: "Mir Fazal Hassan Marri",
         position: "CEO/Founder",
-        image: "logos/fazal hassan .jpg?w=400&h=400&fit=crop&crop=face",
+        image: "fazal hassan .jpg?w=400&h=400&fit=crop&crop=face",
         description: "Visionary leader with over 12 years of experience in building global enterprises and driving strategic growth.",
         hasContact: !0
     }, {
         name: "Miss Adila Durrani",
         position: "Director",
-        image: "logos/WhatsApp Image 2025-06-26 at 12.16.16_1d536b93.jpg?w=400&h=400&fit=crop&crop=face",
+        image: "WhatsApp Image 2025-06-26 at 12.16.16_1d536b93.jpg?w=400&h=400&fit=crop&crop=face",
         description: "Strategic leader providing guidance and oversight to drive organizational excellence and governance.",
         hasContact: !1
     }, {
         name: "Muhammad Noor",
         position: "Director",
-        image: "logos/WhatsApp Image 2025-06-25 at 03.31.18_53f7a399.jpg?w=400&h=400&fit=crop&crop=face",
+        image: "WhatsApp Image 2025-06-25 at 03.31.18_53f7a399.jpg?w=400&h=400&fit=crop&crop=face",
         description: "Experienced Director in Organizational Psychology, focused on improving employee performance, team dynamics, and building healthy work environments for long-term success.",
         hasContact: !1
     },{
         name: "Umair Sabir",
         position: "Director",
-        image: "logos/WhatsApp Image 2025-06-25 at 05.13.17_8cde98e4.jpg?w=400&h=400&fit=crop&crop=face",
+        image: "WhatsApp Image 2025-06-25 at 05.13.17_8cde98e4.jpg?w=400&h=400&fit=crop&crop=face",
         description: "Director specializing in financial management, accounting excellence, and driving sustainable business growth.",
         hasContact: !1
     }, {
         name: "Miss Mariam Awan",
         position: "Director",
-        image: "logos/WhatsApp Image 2025-06-26 at 12.39.20_7e81ae6a.jpg?w=400&h=400&fit=crop&crop=face",
+        image: "WhatsApp Image 2025-06-26 at 12.39.20_7e81ae6a.jpg?w=400&h=400&fit=crop&crop=face",
         description: "Director specializing in HR management and educational development programs.",
         hasContact: !1
     }, {
         name: "Miss Samaira Shaheen",
         position: "Director",
-        image: "logos/WhatsApp Image 2025-06-25 at 03.24.54_37fc43ff.jpg?w=400&h=400&fit=crop&crop=face",
+        image: "WhatsApp Image 2025-06-25 at 03.24.54_37fc43ff.jpg?w=400&h=400&fit=crop&crop=face",
         description: "Director with expertise in finance and economics, driving strategic financial initiatives.",
         hasContact: !1
     }, {
                       name: "Miss Milla Kovacik",
                       position: "Director",
-                      image: "logos/WhatsApp Image 2025-06-25 at 04.53.54_aae2621b.jpg?w=400&h=400&fit=crop&crop=face",
+                      image: "WhatsApp Image 2025-06-25 at 04.53.54_aae2621b.jpg?w=400&h=400&fit=crop&crop=face",
                       description: "Director focused on foreign language education, global communication, and language skills development.",
                       hasContact: !1
                   },{
         name: "Khalique Ur Rehman",
         position: "Director",
-        image: "logos/WhatsApp Image 2025-06-26 at 12.35.07_5b9d124d.jpg?w=400&h=400&fit=crop&crop=face",
+        image: "WhatsApp Image 2025-06-26 at 12.35.07_5b9d124d.jpg?w=400&h=400&fit=crop&crop=face",
         description: "Director focused on farming strategy and sustainable agricultural development.",
         hasContact: !1
     },  {
         name: "Zareef Ur Rehman",
         position: "Director",
-        image: "logos/WhatsApp Image 2025-06-26 at 12.58.12_32ab5784.jpg?w=400&h=400&fit=crop&crop=face",
+        image: "WhatsApp Image 2025-06-26 at 12.58.12_32ab5784.jpg?w=400&h=400&fit=crop&crop=face",
         description: "Director with extensive experience in finance and economics, specializing in strategic planning.",
         hasContact: !1
     }, {
                    name: "Zaib Azeem",
                    position: "Director",
-                   image: "logos/WhatsApp Image 2025-06-26 at 12.58.20_8dbebdd9.jpg?w=400&h=400&fit=crop&crop=face",
+                   image: "WhatsApp Image 2025-06-26 at 12.58.20_8dbebdd9.jpg?w=400&h=400&fit=crop&crop=face",
                    description: "Director specializing in IT solutions and technology-driven organizational development.",
                    hasContact: !1
                }]
