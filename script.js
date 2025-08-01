@@ -17963,7 +17963,7 @@ const B2 = () => {
             children: [d.jsx("div", {
                 className: "absolute inset-0 bg-cover bg-center bg-no-repeat",
                 style: {
-                    backgroundImage: "url('?firstbg.jpegw=1920&h=1200&fit=crop&crop=center')"
+                    backgroundImage: "url('firstbg.jpeg?w=1920&h=1200&fit=crop&crop=center')"
                 }
             }), d.jsx("div", {
                 className: "absolute inset-0 bg-black/50"
