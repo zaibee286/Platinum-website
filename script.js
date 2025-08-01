@@ -17963,7 +17963,7 @@ const B2 = () => {
             children: [d.jsx("div", {
                 className: "absolute inset-0 bg-cover bg-center bg-no-repeat",
                 style: {
-                    backgroundImage: "url('https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1920&h=1200&fit=crop&crop=center')"
+                    backgroundImage: "url('?firstbg.jpegw=1920&h=1200&fit=crop&crop=center')"
                 }
             }), d.jsx("div", {
                 className: "absolute inset-0 bg-black/50"
@@ -18082,7 +18082,7 @@ const B2 = () => {
         children: [d.jsx("div", {
             className: "absolute inset-0 bg-cover bg-center bg-no-repeat",
             style: {
-                backgroundImage: "url('https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1920&h=1080&fit=crop')"
+                backgroundImage: "url('fifthbg.jpeg?w=1920&h=1080&fit=crop')"
             }
         }), d.jsx("div", {
             className: "absolute inset-0 bg-black/60"
@@ -18207,7 +18207,7 @@ const B2 = () => {
             children: [d.jsx("div", {
                 className: "absolute inset-0 bg-cover bg-center bg-no-repeat",
                 style: {
-                    backgroundImage: "url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1920&h=1080&fit=crop')"
+                    backgroundImage: "url('sixthbg.jpeg?w=1920&h=1080&fit=crop')"
                 }
             }), d.jsx("div", {
                 className: "absolute inset-0 bg-black/60"
@@ -18332,7 +18332,7 @@ const B2 = () => {
                  name: "PLATINUM EXECUTIVE GROUP LTD. UK",
                  sector: "Holding Company",
                  description: "Platinum Executive Group Ltd. (UK): A globally diversified holding company headquartered in London, with strategic investments and subsidiaries across Pakistan, the United States, and the United Kingdom, fostering innovation and growth through its multifaceted portfolio.",
-                 linkedin: "https://www.linkedin.com/company/peggroup.co.uk",
+                 linkedin: "https://www.linkedin.com/company/wPM2dcWqsVWX.uk",
                  logo: "PEG Logo-01-01.png?w=100&h=100&fit=crop&crop=center"
              },{
                  name: "RASCO FUELS & PETROLEUM",
@@ -18362,7 +18362,7 @@ const B2 = () => {
                  name: "PLATINUM EXECUTIVE GROUP INC. US",
                  sector: "Holding Company",
                  description: "Platinum Executive Group Inc. (US): A globally diversified holding company headquartered in Miami, Florida, with strategic investments and subsidiaries across Pakistan, the United States, and the United Kingdom, fostering innovation and growth through its multifaceted portfolio.",
-                 linkedin: "https://www.linkedin.com/company/peggroup.co.uk",
+                 linkedin: "https://www.linkedin.com/company/wPM2dcWqsVWX.uk",
                  logo: "PEG Logo-01-01.png?w=100&h=100&fit=crop&crop=center"
              },{
         name: "RASCO ENERGY",
@@ -18427,7 +18427,7 @@ const B2 = () => {
             children: [d.jsx("div", {
                 className: "absolute inset-0 bg-cover bg-center bg-no-repeat",
                 style: {
-                    backgroundImage: "url('https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1920&h=1080&fit=crop')"
+                    backgroundImage: "url('seventhbg.jpeg?w=1920&h=1080&fit=crop')"
                 }
             }), d.jsx("div", {
                 className: "absolute inset-0 bg-black/60"
@@ -18588,7 +18588,7 @@ const B2 = () => {
                    hasContact: !1
                }]
       , t = n => {
-        n === "linkedin" ? window.open("https://www.linkedin.com/in/mirfazalhassan", "_blank", "noopener,noreferrer") : n === "email" && (window.location.href = "mailto:connect@peggroup.co.uk")
+        n === "linkedin" ? window.open("https://www.linkedin.com/in/mirfazalhassan", "_blank", "noopener,noreferrer") : n === "email" && (window.location.href = "mailto:connect@wPM2dcWqsVWX.uk")
     }
     ;
     return d.jsxs("section", {
@@ -18599,7 +18599,7 @@ const B2 = () => {
             children: [d.jsx("div", {
                 className: "absolute inset-0 bg-cover bg-center bg-no-repeat",
                 style: {
-                    backgroundImage: "url('https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=1920&h=1080&fit=crop')"
+                    backgroundImage: "url('secondbg.jpeg?w=1920&h=1080&fit=crop')"
                 }
             }), d.jsx("div", {
                 className: "absolute inset-0 bg-black/60"
@@ -18688,7 +18688,7 @@ const B2 = () => {
         children: [d.jsx("div", {
             className: "absolute inset-0 bg-cover bg-center bg-no-repeat",
             style: {
-                backgroundImage: "url('https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1920&h=1080&fit=crop')"
+                backgroundImage: "url('thirdbg.jpeg?w=1920&h=1080&fit=crop')"
             }
         }), d.jsx("div", {
             className: "absolute inset-0 bg-black/60"
@@ -18754,7 +18754,7 @@ const B2 = () => {
                     }), d.jsxs("div", {
                         className: "text-center",
                         children: [d.jsxs("a", {
-                            href: "mailto:connect@peggroup.co.uk?subject=Career Opportunity - CV Submission",
+                            href: "mailto:connect@wPM2dcWqsVWX.uk?subject=Career Opportunity - CV Submission",
                             className: "inline-flex items-center bg-gradient-to-r from-emerald-500 to-teal-600 text-white px-8 py-4 rounded-full font-semibold hover:from-emerald-600 hover:to-teal-700 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl",
                             children: [d.jsx(Hy, {
                                 className: "w-5 h-5 mr-2"
@@ -18765,7 +18765,7 @@ const B2 = () => {
                                 className: "text-white/70 text-sm",
                                 children: ["Email: ", d.jsx("span", {
                                     className: "text-emerald-300 font-medium",
-                                    children: "connect@peggroup.co.uk"
+                                    children: "connect@wPM2dcWqsVWX.uk"
                                 })]
                             })
                         })]
@@ -18835,7 +18835,7 @@ const B2 = () => {
     }, {
         icon: zs,
         title: "Email",
-        details: ["connect@peggroup.co.uk"]
+        details: ["connect@wPM2dcWqsVWX.uk"]
     }]
       , t = ["London, UK", "Karachi, Pakistan", "Mawand, Pakistan", "Islamabad, Pakistan", "Miami, USA", "Erfurt, Germany"];
     return d.jsxs("section", {
@@ -18846,7 +18846,7 @@ const B2 = () => {
             children: [d.jsx("div", {
                 className: "absolute inset-0 bg-cover bg-center bg-no-repeat",
                 style: {
-                    backgroundImage: "url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&h=1080&fit=crop')"
+                    backgroundImage: "url('fourthbg.jpeg?w=1920&h=1080&fit=crop')"
                 }
             }), d.jsx("div", {
                 className: "absolute inset-0 bg-black/60"
@@ -18948,13 +18948,13 @@ const B2 = () => {
         let i = "";
         switch (o) {
         case "linkedin":
-            i = "https://www.linkedin.com/company/peggroup.co.uk";
+            i = "https://www.linkedin.com/company/wPM2dcWqsVWX.uk";
             break;
         case "x":
             i = "https://x.com/peggroup_uk";
             break;
         case "instagram":
-            i = "https://www.instagram.com/peggroup.co.uk";
+            i = "https://www.instagram.com/wPM2dcWqsVWX.uk";
             break;
         default:
             return
@@ -19034,7 +19034,7 @@ const B2 = () => {
                             className: "w-5 h-5 text-platinum-400"
                         }), d.jsx("span", {
                             className: "text-gray-300",
-                            children: "connect@peggroup.co.uk"
+                            children: "connect@wPM2dcWqsVWX.uk"
                         })]
                     }), d.jsxs("div", {
                         className: "flex items-center space-x-3",
